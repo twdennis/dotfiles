@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tom.w.dennis@hotmail.co.uk
+	name = Tom Dennis
